@@ -1,0 +1,3 @@
+/home/Archer/CLionProjects/task0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/Archer/CLionProjects/task0/cmake-build-debug/CMakeFiles/kolos.dir
+/home/Archer/CLionProjects/task0/cmake-build-debug/CMakeFiles/edit_cache.dir
